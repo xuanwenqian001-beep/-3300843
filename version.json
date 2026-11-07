@@ -1,5 +1,5 @@
 {
     "version": "1.0.5",
-    "update_log": "1. 新增自动更新\n2. 修复了已知问题",
-    "download_url": "http://192.168.214.1:5000/%E9%A3%9F%E5%A0%82%E7%BB%9F%E8%AE%A1%E8%A1%A8.exe"
+    "update_log": "1. 新增自动更新\n2. 修复了已知问题\n3. UI界面渲染",
+    "download_url": "http://192.168.214.1:5000/%E9%A3%9F%E5%A0%82%E7%BB%9F%E8%AE%A1%E8%A1%A82.exe"
 }
